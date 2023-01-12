@@ -1,0 +1,9 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
+.nuotrauka1{
+    display: flex;
+    width: 200px;
+    height: 200px;
+}
